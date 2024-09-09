@@ -1,1 +1,1 @@
-# Glowing-ecommerce-website
+# Glowing-eCommerce website
